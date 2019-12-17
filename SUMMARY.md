@@ -15,8 +15,9 @@
 
 ## 나만의 알고리즘 채점 사이트 <a id="undefined-1"></a>
 
+* [환경설정](undefined-1/undefined.md)
+
 ## 더 자바 <a id="undefined-1-1"></a>
 
-* [환경설정](undefined-1-1/undefined.md)
 * [강의 정리중](undefined-1-1/undefined-1.md)
 
