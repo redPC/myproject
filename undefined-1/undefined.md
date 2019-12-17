@@ -28,5 +28,19 @@ docker-compose up -d 명령어를 실행
 
 
 
+sudo apt install git
+
+sudo apt install nodejs-legacy
+
+sudo apt install npm
+
+sudo npm clean cache -f 
+
+sudo npm install -g n
+
+
+
+
+
 
 
