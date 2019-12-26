@@ -40,6 +40,12 @@ sudo npm install -g n
 
 
 
+NODE\_ENV=development sudo npm run build:dll
+
+
+
+
+
 `An attemp was made to access a socket in a way forbidden by its access permissions.`
 
 갑자기 이런 에러가 떠서 도커가 실행이 안됐는데
