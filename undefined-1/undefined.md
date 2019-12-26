@@ -42,6 +42,8 @@ sudo npm install -g n
 
 NODE\_ENV=development sudo npm run build:dll
 
+npm run dev
+
 
 
 
