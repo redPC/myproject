@@ -52,7 +52,7 @@ npm run dev
 
 갑자기 이런 에러가 떠서 도커가 실행이 안됐는데
 
-netsh int ip reset resetlog.txt
+c
 
 이 명령어를 치니까 된다. tcp/ip 원상복구라는데 흠...
 
