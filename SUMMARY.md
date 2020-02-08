@@ -30,3 +30,7 @@
 * [용어정리](undefined-2/undefined.md)
 * [Untitled](undefined-2/untitled.md)
 
+## adsp 정리
+
+* [1장](adsp/1.md)
+
